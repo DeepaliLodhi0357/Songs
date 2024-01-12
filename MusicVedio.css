@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(./images/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100vw;
+}
+
+main {
+    width: 30%;
+    margin: auto;
+    background-color: #eeb6b9;
+    margin: 5rem auto;
+    padding: 1rem 0px;
+    margin-left: 38%;
+}
+
+main #cont {
+    text-align: center;
+    display: inline;
+}
+
+video {
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+
+#volume-cont {
+    margin-bottom: 2rem;
+}
+
+#important {
+    font-size: 2rem;
+    color: #e7848e;
+}
+
+.fa-shuffle {
+    color: #e7848e;
+}
